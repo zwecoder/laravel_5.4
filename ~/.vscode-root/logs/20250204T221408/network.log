@@ -1,0 +1,1 @@
+2025-02-04 22:16:42.871 [error] electron #2: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_TIMED_OUT

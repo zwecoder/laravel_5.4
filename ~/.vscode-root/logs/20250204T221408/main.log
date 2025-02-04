@@ -1,0 +1,5 @@
+2025-02-04 22:14:10.909 [info] update#setState idle
+2025-02-04 22:14:41.080 [info] update#setState checking for updates
+2025-02-04 22:14:41.085 [info] update#setState idle
+2025-02-04 22:17:12.120 [info] Extension host with pid 37713 exited with code: 0, signal: unknown.
+2025-02-04 22:17:13.828 [error] Extension host with pid 37713 still exists, forcefully killing it...

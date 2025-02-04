@@ -1,0 +1,5 @@
+2025-02-04 22:14:17.741 [warning] Creation of workbench contribution 'workbench.contrib.updateExperimentalSettingsDefaults' took 82ms.
+2025-02-04 22:14:20.034 [info] Started local extension host with pid 37713.
+2025-02-04 22:14:20.835 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode/extensions
+2025-02-04 22:14:23.655 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode/extensions
+2025-02-04 22:14:27.102 [info] [perf] Render performance baseline is 49ms
